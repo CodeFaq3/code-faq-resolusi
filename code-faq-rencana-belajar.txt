@@ -3,6 +3,7 @@ RENCANA BELAJAR
 -css tainwild
   *bisa
   *mengerti
+-js framework
 -js dasar
 -js dom
 -js advance
