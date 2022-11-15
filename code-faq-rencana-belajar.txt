@@ -4,7 +4,10 @@ RENCANA BELAJAR
   *bisa
   *mengerti
 -js framework
-  *angular
   *vue
+  *library
 -js dasar
 -js dom
+-js advance
+-php
+-python
