@@ -1,7 +1,7 @@
 code faq resolusi
--kosisten belajar coding
 -belajar html
 -belajar css
 -belajar framework css
+-belajar bootstrap
 -belajar git
 -framework sass
