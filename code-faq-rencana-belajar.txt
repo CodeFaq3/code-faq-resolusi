@@ -10,3 +10,4 @@ RENCANA BELAJAR
 -js dom
 -js advance
 -php
+-python
