@@ -4,6 +4,9 @@ RENCANA BELAJAR
   *bisa
   *mengerti
 -js framework
+  *vue
+  *library
 -js dasar
 -js dom
 -js advance
+-php
