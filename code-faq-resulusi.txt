@@ -3,3 +3,5 @@ code faq resolusi
 -belajar html
 -belajar css
 -belajar framework css
+-belajar git
+-framework sass
